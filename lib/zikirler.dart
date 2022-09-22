@@ -5,6 +5,7 @@ class Zikirler {
     'ER RAHİM 258',
     'EL MELİK 90',
     'EL LATİF 129'
+    'YA VEDUD 21'
 
   ];
 }
