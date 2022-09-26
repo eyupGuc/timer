@@ -6,6 +6,7 @@ class Zikirler {
     'EL MELİK 90',
     'EL LATİF 129'
     'YA VEDUD 21'
+    'EL CEBBAR 206'
 
   ];
 }
